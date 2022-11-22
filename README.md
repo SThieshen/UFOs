@@ -7,6 +7,8 @@ This project focuses on building a dynamic webpage that accepts user input and a
 
 ### Search Criteria Procedure
 
+Webpage located "C:\Users\lance\OneDrive\Desktop\Analysis_Projects\Data_Analyst\Projects\UFOs\index.html"
+
 #### Index page
 This is the initial page. The user can re-initialize the page by clicking on the navigation bar at the top.
 
