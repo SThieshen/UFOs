@@ -10,7 +10,7 @@ In order to perform their analysis, users will be able to filter the UFO sightin
 
 #### Index page
 This is the initial page. The user can re-initialize the page by clicking on the navigation bar at the top.
-!![image](https://user-images.githubusercontent.com/111802162/203190666-11116e38-afc7-4fb5-8fc3-2056acfc171b.png)
+![image](https://user-images.githubusercontent.com/111802162/203190666-11116e38-afc7-4fb5-8fc3-2056acfc171b.png)
 
 #### Filtering by event date
 The user enters the desired date, the change is detected and the table is updated accordingly.
