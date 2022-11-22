@@ -19,9 +19,7 @@ The user enters the desired date, the change is detected and the table is update
 
 #### Filtering by city
 The user enters the desired city, the change is detected and the table is updated accordingly.
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/95657153-7c539c00-0ad8-11eb-9ed0-8ec629dc28d1.png" class="img-responsive" alt="Responsive image"> 
-</p>
+![image](https://user-images.githubusercontent.com/111802162/203191479-ae056256-ade1-4081-959f-24974a531388.png)
 
 #### Filtering by country
 The user enters the desired country, the change is detected and the table is updated accordingly.
