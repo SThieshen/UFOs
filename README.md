@@ -6,15 +6,12 @@ In order to perform their analysis, users will be able to filter the UFO sightin
 
 ## Results
 
-### Link to UFO Sightings webpage
-The deployed webpage is accessible at C:\Users\lance\OneDrive\Desktop\Analysis_Projects\Data_Analyst\Projects\UFOs\index.html
-
 ### Search Criteria Procedure
 
 #### Index page
 This is the initial page. The user can re-initialize the page by clicking on the navbar at the top.
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/95640606-285aa000-0a63-11eb-9bee-08b8b7b208ce.png" class="img-responsive" alt="Responsive image"> 
+    <img src=""C:\Users\lance\OneDrive\Desktop\Analysis_Projects\Data_Analyst\Projects\UFOs\static\images\ufo_table_nav.png"" class="img-responsive" alt="Responsive image"> 
 </p>
 
 #### Filtering by event date
