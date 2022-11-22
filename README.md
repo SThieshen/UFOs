@@ -7,6 +7,7 @@ This project focuses on building a dynamic webpage that accepts user input and a
 
 ### Search Criteria Procedure
 
+The webpage can be accessed at the following link: https://sthieshen.github.io./
 
 
 #### Index page
