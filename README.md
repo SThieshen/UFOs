@@ -27,11 +27,9 @@ The user enters the desired state, the changes are detected and the table is upd
 
 ![image](https://user-images.githubusercontent.com/111802162/203191389-57d1bc99-a593-43c7-9ef6-9bd109cce6df.png)
 
-All filter parameters can be entered simultaneously.
+Users can also filter by country and/or shape of sighting, and all filter parameters can be entered simultaneously or each field separately.
 <br>
 
 ## Summary
-- One drawback of this design is the difficulty for the user to know what parameter to use for the filtering. For example to pick a city, the user would have to go through the table a find the city desired for the analysis.
-- A way to address this would be to present drop-down lists including all filter values in place of the input fields.<br>
-Each list would need to update after a parameter is selected in any filter.
-- Including a button to clear the filters is also needed. The button would be located below the last filter.
+
+One disadvantage of this design for users is that the user would have difficulty knowing what parameter to use for the filtering. For example, to pick a city, the user would have to go through the table and find the city desired for the analysis. This could be addressed by drop-down lists, including all filter values in place of the input fields. Each list would need to update after a parameter is selected in any filter. Another way to improve the design of this webpage would be including a button to clear the filters as needed. The button would be located below the last filter in which the user could click to clear searches.
