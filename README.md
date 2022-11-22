@@ -9,9 +9,8 @@ In order to perform their analysis, users will be able to filter the UFO sightin
 ### Search Criteria Procedure
 
 #### Index page
-This is the initial page. The user can re-initialize the page by clicking on the navbar at the top.
-
-![alt text](C:\Users\lance\OneDrive\Desktop\Analysis_Projects\Data_Analyst\Projects\UFOs\static\images\ufo_table_nav.png)
+This is the initial page. The user can re-initialize the page by clicking on the navigation bar at the top.
+!(C:\Users\lance\OneDrive\Desktop\Analysis_Projects\Data_Analyst\Projects\UFOs\static\images\ufo_table_nav.png)
 
 #### Filtering by event date
 The user enters the desired date, the change is detected and the table is updated accordingly.
