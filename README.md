@@ -29,11 +29,11 @@ The user enters the desired country, the change is detected and the table is upd
     <img src="https://user-images.githubusercontent.com/68669675/95657154-7cec3280-0ad8-11eb-9aa2-747ca64af497.png" class="img-responsive" alt="Responsive image"> 
 </p>
 
-#### Filtering by state and shape
-The user enters the desired state and shape observed, the changes are detected and the table is updated accordingly.
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/95657155-7cec3280-0ad8-11eb-8b37-2a7b9871d1dd.png" class="img-responsive" alt="Responsive image"> 
-</p>
+#### Filtering by state
+The user enters the desired state, the changes are detected and the table is updated accordingly.
+
+![image](https://user-images.githubusercontent.com/111802162/203191389-57d1bc99-a593-43c7-9ef6-9bd109cce6df.png)
+
 All filter parameters can be entered simultaneously.
 <br>
 
