@@ -14,7 +14,8 @@ This is the initial page. The user can re-initialize the page by clicking on the
 
 #### Filtering by event date
 The user enters the desired date, the change is detected and the table is updated accordingly.
-static/images/ufo_table_date.png
+
+![image](https://user-images.githubusercontent.com/111802162/203191086-5d83ffb2-7aed-4400-a589-578d01907324.png)
 
 #### Filtering by city
 The user enters the desired city, the change is detected and the table is updated accordingly.
